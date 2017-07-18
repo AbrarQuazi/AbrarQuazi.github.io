@@ -57,14 +57,14 @@
 
 
 }
-.card-img {
+.card-image {
 	float: left;
-	width: 100px;
-	height: 120px;
+	width: 120px;
+	height: 140px;
 	min-width: 80px;
 	min-height: 90px;
-	max-width: 100px;
-	max-height: 100px;
+	max-width: 150px;
+	max-height: 150px;
 }
 .education-card {
 	width: 46%;
@@ -124,4 +124,6 @@
 	max-width: 200px;
 	max-height: 100px;
 }
+.text-sizing {
 
+}
