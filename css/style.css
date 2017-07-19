@@ -47,10 +47,10 @@
 	text-align: center;
 }
 .circle, .responsive-img, .shape {
-	padding-left: 10px;
-	padding-top: 10px;
-	padding-right: 10px;
-	padding-bottom: 10px;
+	padding-left: 12px;
+	padding-top: 12px;
+	padding-right: 12px;
+	padding-bottom: 12px;
 }
 .pic {
 	text-align: center;
@@ -68,9 +68,9 @@
 }
 .education-card {
 
-	padding-left: 10%;
+	padding-left: 30%;
+	padding-right: 30%;
 	
-	float: left;
 	padding-top: 0%;
 
 }
@@ -79,29 +79,27 @@
 }
 .skills-card {
 
-	padding-right: 10%;
-	padding-left: 10%;
+	padding-right: 30%;
+	padding-left: 30%;
 	padding-top: 0%;
-	float: right;
+	
 
 }
 .interest-card {
 
-	padding-left: 10%;
-	
-	padding-top: 2.5%;
-	float: left;
+	padding-left: 30%;
+	padding-right: 30%;
+	padding-top: 0%;
 
-	clear: left;
 
 
 }
 .internship-card {
 
-	padding-right: 10%;
-	padding-left: 10%;
-	padding-top: 2.5%;
-	float: right;
+	padding-right: 30%;
+	padding-left: 30%;
+	padding-top: 0%;
+	
 	
 }
 .internship-content {
