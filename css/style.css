@@ -5,8 +5,15 @@
 	text-align: center;
 
 }
+.navbar-fixed {
+	min-height: 64px;
+}
+.nav-wrapper {
+	min-height: 64px;
+}
+
 .intro {
-	background-image: url('../img/giphy.gif');
+	background-image: url('../img/header.jpg');
 	background-position: center;
 	background-size: cover;
 	width: 100%;
@@ -14,13 +21,14 @@
 	text-align: center;
 	padding-bottom: 25%;
 	padding-top: 25%;
-	
+	min-height: 670px;
 	margin: 0 auto;
 	border: 0;
 	box-sizing: border-box;
 	display: table;
 	max-width: none;
 	vertical-align: middle;
+
 }
 
 .content {
@@ -104,6 +112,17 @@
 	min-width: 500px;
 	
 }
+.contact-card {
+	
+	padding-right: 25%;
+	padding-left: 25%;
+	padding-top: 0%;
+	min-width: 500px;
+}
+.buttons li {
+	display: inline;
+	text-align: center;
+}
 .internship-content {
 	
 }
@@ -116,6 +135,6 @@
 	max-width: 200px;
 	max-height: 100px;
 }
-.text-sizing {
-
+.card-title internship-content h4{
+	text-align: center;
 }
